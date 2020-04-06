@@ -21,7 +21,7 @@ Optimize model training and input data to achieve desired model performance.
 The code can be found in the AlphabetSoupChallenge.ipynb folder in the root of this repository.
 
 How many neurons and layers did you select for your neural network model? Why?
-- I chose 43
+- I chose 44 features with 10 nodes in the first hidden layer and 5 in the second hidden layer. I did this to provide enough weight parameters to find trends in the dataset.
 
 Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
 - The model reached the target performance level on the first attempt.
